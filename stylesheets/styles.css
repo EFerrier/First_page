@@ -7,6 +7,11 @@ body {
   font-weight:300;
 }
 
+.wrapper {
+  background-image:url('http://www.travelization.net/wp-content/uploads/2012/09/stars-over-malibu-los-angeles-wallpapers-1024x768.jpg');
+  height: 768px;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
@@ -46,8 +51,8 @@ a small {
 }
 
 .wrapper {
-  background-image:url('http://www.travelization.net/wp-content/uploads/2012/09/stars-over-malibu-los-angeles-wallpapers-1024x768.jpg');
-  height: 768px;
+  width:860px;
+  margin:0 auto;
 }
 
 blockquote {
