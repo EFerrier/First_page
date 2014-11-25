@@ -7,9 +7,10 @@ body {
   font-weight:300;
 }
 
-body {
-  background-image: url("http://www.travelization.net/wp-content/uploads/2012/09/stars-over-malibu-los-angeles-wallpapers-1024x768.jpg");
-  width: 768px;
+.wrapper {
+  background-image: url('http://www.travelization.net/wp-content/uploads/2012/09/stars-over-malibu-los-angeles-wallpapers-1024x768.jpg');
+  height: 768px;
+  margin: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
