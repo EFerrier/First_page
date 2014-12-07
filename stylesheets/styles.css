@@ -11,6 +11,11 @@ title {
   padding-bottom: 34px;
 }
 
+header {
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
+
 body {
   position: relative;
   top: 35%;
