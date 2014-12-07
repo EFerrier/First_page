@@ -1,5 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
+title {
+  font-size: 45px;
+  padding-top: 20px;
+  padding-bottom: 35px;
+}
+
 body {
   position: relative;
   top: 35%;
