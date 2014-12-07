@@ -5,11 +5,12 @@ header {
   font-size: 45px;
   padding-top: 20px;
   padding-bottom: 25px;
+  width: 200px;
 }
 
 body {
   position: relative;
-  top: 35%;
+  top: 55%;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
   font-weight:300;
