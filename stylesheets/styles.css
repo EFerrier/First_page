@@ -9,8 +9,6 @@ header {
 }
 
 body {
-  position: relative;
-  top: 55%;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
   font-weight:300;
@@ -30,19 +28,9 @@ h2 {
   color:#393939;
 }
 
-h3, h4, h5, h6 {
-  color:#494949;
-}
-
 .wrapper {
   width:860px;
   margin:0 auto;
-}
-
-header {
-  width:270px;
-  float:right;
-  position:fixed;
 }
 
 footer {
