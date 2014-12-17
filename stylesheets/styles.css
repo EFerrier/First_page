@@ -2,11 +2,12 @@
 
 .One {
   background-color: #8A8A8A;
-  width: 700px;
+  width: 350px;
 }
 
 header {
   font-size: 40px;
+  font-weight: bold;
   padding-top: 20px;
   padding-bottom: 25px;
   padding-left: 15px;
