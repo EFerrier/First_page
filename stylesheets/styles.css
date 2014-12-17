@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
 .One {
-  background-color: #2929CC;
+  /*background-color: #2929CC;*/
   font-family: 'Hoefler Text', 'Baskerville Old Face', Garamond, 'Times New Roman', serif;
 }
 
@@ -11,7 +11,7 @@ header {
   padding-top: 20px;
   padding-bottom: 55px;
   padding-left: 15px;
-  color: #FFFFFF;
+  color: #393939;
   width: 350px;
 }
 
