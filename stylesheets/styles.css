@@ -9,6 +9,10 @@ height:20px;
 background-color:#FFFFFF;
 }
 
+ul {
+  list-style-type: none;
+}
+
 li {
   display: inline;
   font-size: 10px;
