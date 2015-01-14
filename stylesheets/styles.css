@@ -11,6 +11,8 @@ background-color:#FFFFFF;
 
 ul {
   list-style-type: none;
+  background-color: #EEE7E8;
+  padding: 5px 5px 5px 5px;
 }
 
 li {
