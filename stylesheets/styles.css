@@ -32,19 +32,19 @@ a {
 #logo {
   font-size: 15px;
   font-style: bold;
-  /*float: left; */
+  float: left;
   background-color: #FFFFFF;
   border: 0px 5px 20px 5px;
 }
 
 #menu {
   font-size: 15px;
- /* float: right; */
+  float: right;
   background-color: #FFFFFF;
 }
 
 #marketplace {
- /* float: center; */
+  float: center;
   background-color: #FFFFFF;
 }
 
