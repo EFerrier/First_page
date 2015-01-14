@@ -18,11 +18,13 @@ ul {
 li {
   display: inline;
   color: #000000;
+  background-color: #FFFFFF;
 }
 
 a {
   display: block;
   width: 120px;
+  background-color: #FFFFFF;
 }
 
 #logo {
