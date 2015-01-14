@@ -14,7 +14,7 @@ ul {
   background-color: #FFFFFF;
   border: 0px 5px 20px 5px;
   width: 100%;
-  /* display: inline; */
+  display: inline;
 }
 
 li {
@@ -44,7 +44,7 @@ a {
 }
 
 #marketplace {
-  float: center;
+  float: middle;
   background-color: #FFFFFF;
 }
 
