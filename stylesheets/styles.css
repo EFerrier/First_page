@@ -33,6 +33,7 @@ a {
   font-style: bold;
   float: left;
   background-color: #FFFFFF;
+  border: 0px 5px 20px 5px;
 }
 
 #menu {
