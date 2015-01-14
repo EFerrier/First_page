@@ -11,8 +11,8 @@ background-color:#FFFFFF;
 
 ul {
   list-style-type: none;
-  background-color: #EEE7E8;
-  padding: 5px 5px 5px 5px;
+  background-color: #FFFFFF;
+  padding: 0px 5px 5px 5px;
 }
 
 li {
@@ -28,7 +28,7 @@ li {
 header {
   font-size: 40px;
   font-family: 'Hoefler Text', 'Baskerville Old Face', Garamond, 'Times New Roman', serif;
-  padding: 20px 0px 55px 15px;
+  padding: 40px 0px 55px 15px;
   color: #393939;
   width: 350px;
 }
