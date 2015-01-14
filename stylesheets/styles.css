@@ -29,11 +29,13 @@ a {
   font-size: 15px;
   font-style: bold;
   float: left;
+  background-color: #FFFFFF;
 }
 
 #menu {
   font-size: 15px;
   float: right;
+  background-color: #FFFFFF;
 }
 
 .One {
