@@ -14,6 +14,7 @@ ul {
   background-color: #FFFFFF;
   border: 0px 5px 20px 5px;
   width: 100%;
+  display: inline;
 }
 
 li {
@@ -24,7 +25,7 @@ li {
 
 a {
   display: block;
-  width: 120px;
+  width: 90px;
   background-color: #FFFFFF;
 }
 
@@ -39,6 +40,11 @@ a {
 #menu {
   font-size: 15px;
   float: right;
+  background-color: #FFFFFF;
+}
+
+#marketplace {
+  float: center;
   background-color: #FFFFFF;
 }
 
