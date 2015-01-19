@@ -29,18 +29,17 @@ li {
 } */
 
 #logo {
-  width: 120px;
   font-size: 15px;
   font-style: bold;
   background-color: #FFFFFF;
-  border: 0px 5px 20px 5px;
+  border: 0px 5px 80px 5px;
   float: left;
 }
 
 #menu {
   font-size: 15px;
   background-color: #FFFFFF;
-  float: center;
+  float: right;
 }
 
 #marketplace {
