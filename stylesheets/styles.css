@@ -29,6 +29,7 @@ li {
 } */
 
 #logo {
+  width: 120px;
   font-size: 15px;
   font-style: bold;
   background-color: #FFFFFF;
