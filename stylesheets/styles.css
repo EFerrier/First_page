@@ -14,7 +14,7 @@ ul {
   background-color: #FFFFFF;
   border: 0px 5px 20px 5px;
   width: 100%;
-  /* display: inline; */
+  display: inline;
 }
 
 li {
@@ -23,11 +23,11 @@ li {
   background-color: #FFFFFF;
 }
 
-/*a {
+a {
   display: block;
   width: 80px;
   background-color: #FFFFFF;
-} */
+}
 
 #logo {
   font-size: 15px;
