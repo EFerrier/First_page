@@ -23,7 +23,7 @@ li {
 }
 
 a {
-  display: block;
+  display: float;
   /*width: 80px;
   background-color: #FFFFFF; */
 }
